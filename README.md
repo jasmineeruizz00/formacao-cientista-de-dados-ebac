@@ -1,27 +1,28 @@
-# Projetos de Análise de Dados — EBAC
+# Formação em Ciência de Dados — EBAC
 
-Repositório com atividades práticas desenvolvidas durante minha formação em **Ciência de Dados pela EBAC**.
+Repositório destinado à organização e apresentação das atividades práticas desenvolvidas durante minha formação em **Ciência de Dados pela EBAC**.
 
-Os projetos apresentados aplicam conceitos de análise exploratória, estatística descritiva, tratamento de dados e visualização de informações. O objetivo é desenvolver uma base técnica sólida em Python e construir um portfólio voltado para oportunidades iniciais em análise de dados.
+Os projetos reunidos aqui registram minha evolução técnica em Python e fundamentos de ciência de dados, incluindo análise exploratória, estatística descritiva, tratamento de dados e visualização de informações.
 
 ## Projetos desenvolvidos
 
-| Módulo | Projeto | Descrição | Competências aplicadas |
+| Módulo | Projeto | Descrição | Competências desenvolvidas |
 |---|---|---|---|
-| 10 | Análise e Visualização de Dados | Análise de dados com etapa de limpeza e criação de gráficos para facilitar a interpretação das informações e identificar padrões relevantes. | Limpeza de dados, análise exploratória, visualização de dados e interpretação de resultados |
-| 13 | Análise Estatística de Dados | Projeto de análise de dados com foco em estatística descritiva, buscando compreender a distribuição, o comportamento e as características das informações analisadas. | Estatística descritiva, análise de dados e interpretação de métricas |
-| 14 | Tratamento e Limpeza de Dados | Notebook prático dedicado à preparação dos dados para análise, incluindo identificação e tratamento de problemas de qualidade nos dados. | Limpeza, organização, preparação e validação de dados |
+| 10 | Análise e Visualização de Dados | Análise de dados com limpeza das informações e criação de gráficos para facilitar a compreensão dos dados, identificar padrões e apoiar a interpretação dos resultados. | Limpeza de dados, análise exploratória, visualização de dados e interpretação de resultados |
+| 13 | Análise Estatística de Dados | Projeto de análise de dados com foco em estatística descritiva, utilizando métricas para compreender melhor o comportamento, a distribuição e as características dos dados. | Estatística descritiva, análise de dados, interpretação de métricas e raciocínio analítico |
+| 14 | Tratamento e Limpeza de Dados | Atividade prática voltada à preparação de dados para análise, com identificação, organização e tratamento de problemas de qualidade na base de dados. | Tratamento de dados, limpeza, organização e preparação para análise |
 
-## Tecnologias utilizadas
+## Tecnologias e ferramentas
 
 - Python
 - Jupyter Notebook
 - Google Colab
-- Git e GitHub
+- Git
+- GitHub
 
-As bibliotecas utilizadas podem variar de acordo com cada atividade e estão registradas nos respectivos scripts e notebooks.
+As bibliotecas utilizadas variam conforme os objetivos de cada atividade e estão documentadas nos respectivos arquivos.
 
-## Organização do repositório
+## Estrutura do repositório
 
 ```text
 .
@@ -31,36 +32,11 @@ As bibliotecas utilizadas podem variar de acordo com cada atividade e estão reg
 └── README.md
 ```
 
-## Como executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/jasmineeruizz00/ebac-analise-de-dados.git
-cd ebac-analise-de-dados
-```
-
-### Scripts Python
-
-Para executar os arquivos `.py`, tenha o Python instalado e utilize o terminal:
-
-```bash
-python modulo_10_analise_visualizacao_dados.py
-```
-
-### Notebook
-
-O notebook do módulo 14 pode ser aberto em uma das seguintes ferramentas:
-
-- Jupyter Notebook
-- JupyterLab
-- Google Colab
-
 ## Objetivo profissional
 
-Este repositório integra meu portfólio em análise de dados e documenta minha evolução prática durante a formação. Meu foco é desenvolver soluções organizadas, interpretar informações com senso crítico e comunicar resultados de forma clara por meio de análises e visualizações.
+Este repositório faz parte da construção do meu portfólio em Ciência de Dados. Seu propósito é demonstrar minha evolução durante a formação, minha capacidade de trabalhar com dados e meu interesse em transformar informações em análises claras e relevantes.
 
-Busco oportunidades iniciais na área de dados, especialmente em posições de **Analista de Dados**, nas quais eu possa aplicar e expandir meus conhecimentos técnicos e analíticos.
+Busco desenvolver competências para atuar em oportunidades iniciais nas áreas de **Análise de Dados** e **Ciência de Dados**, contribuindo com análises baseadas em dados para apoiar decisões.
 
 ## Autora
 
@@ -68,4 +44,4 @@ Busco oportunidades iniciais na área de dados, especialmente em posições de *
 Estudante de Ciência de Dados pela EBAC.
 
 - GitHub: [@jasmineeruizz00](https://github.com/jasmineeruizz00)
-- LinkedIn: *adicione o link do seu perfil quando estiver disponível*
+- LinkedIn: *em produção*
