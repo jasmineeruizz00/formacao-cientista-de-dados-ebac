@@ -11,6 +11,7 @@ Os projetos reunidos aqui registram minha evolução técnica em Python e fundam
 | 10 | Análise e Visualização de Dados | Análise de dados com limpeza das informações e criação de gráficos para facilitar a compreensão dos dados, identificar padrões e apoiar a interpretação dos resultados. | Limpeza de dados, análise exploratória, visualização de dados e interpretação de resultados |
 | 13 | Análise Estatística de Dados | Projeto de análise de dados com foco em estatística descritiva, utilizando métricas para compreender melhor o comportamento, a distribuição e as características dos dados. | Estatística descritiva, análise de dados, interpretação de métricas e raciocínio analítico |
 | 14 | Tratamento e Limpeza de Dados | Atividade prática voltada à preparação de dados para análise, com identificação, organização e tratamento de problemas de qualidade na base de dados. | Tratamento de dados, limpeza, organização e preparação para análise |
+| 15 | Análise Exploratória para Pré-Modelagem | Análise de uma base de clientes de telecomunicações para investigar fatores associados ao cancelamento do serviço (*churn*). O projeto inclui transformação de variáveis, análise univariada e bivariada, avaliação de outliers e visualizações interativas. | Pré-modelagem, análise exploratória, tratamento de variáveis, identificação de outliers, análise de churn e visualização com Plotly |
 
 ## Tecnologias e ferramentas
 
@@ -19,6 +20,11 @@ Os projetos reunidos aqui registram minha evolução técnica em Python e fundam
 - Google Colab
 - Git
 - GitHub
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 
 As bibliotecas utilizadas variam conforme os objetivos de cada atividade e estão documentadas nos respectivos arquivos.
 
@@ -29,6 +35,7 @@ As bibliotecas utilizadas variam conforme os objetivos de cada atividade e estã
 ├── modulo_10_analise_visualizacao_dados.py
 ├── modulo_13_analise_estatistica_dados.py
 ├── modulo_14_tratamento_limpeza_dados.ipynb
+├── modulo_15_analise_pre_modelagem_churn.ipynb
 └── README.md
 ```
 
