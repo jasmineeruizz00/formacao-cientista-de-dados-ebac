@@ -6,12 +6,14 @@ Os projetos reunidos aqui registram minha evolução técnica em Python e fundam
 
 ## Projetos desenvolvidos
 
-| Módulo | Projeto | Descrição | Competências desenvolvidas |
-|---|---|---|---|
-| 10 | Análise e Visualização de Dados | Análise de dados com limpeza das informações e criação de gráficos para facilitar a compreensão dos dados, identificar padrões e apoiar a interpretação dos resultados. | Limpeza de dados, análise exploratória, visualização de dados e interpretação de resultados |
-| 13 | Análise Estatística de Dados | Projeto de análise de dados com foco em estatística descritiva, utilizando métricas para compreender melhor o comportamento, a distribuição e as características dos dados. | Estatística descritiva, análise de dados, interpretação de métricas e raciocínio analítico |
-| 14 | Tratamento e Limpeza de Dados | Atividade prática voltada à preparação de dados para análise, com identificação, organização e tratamento de problemas de qualidade na base de dados. | Tratamento de dados, limpeza, organização e preparação para análise |
-| 15 | Análise Exploratória para Pré-Modelagem | Análise de uma base de clientes de telecomunicações para investigar fatores associados ao cancelamento do serviço (*churn*). O projeto inclui transformação de variáveis, análise univariada e bivariada, avaliação de outliers e visualizações interativas. | Pré-modelagem, análise exploratória, tratamento de variáveis, identificação de outliers, análise de churn e visualização com Plotly |
+| Módulo | Projeto | Descrição | Principais técnicas e conceitos |
+|--------|---------|-----------|----------------------------------|
+| 10 | Análise Exploratória de Dados | Análise exploratória de um conjunto de dados real, com tratamento, estatística descritiva e visualizações. | Limpeza de dados, estatística descritiva, gráficos com matplotlib/seaborn, interpretação de resultados |
+| 13 | Classificação de Clientes | Modelo de classificação para prever perfil/comportamento de clientes com base em variáveis demográficas e de consumo. | Pré-processamento, encoding, separação treino/teste, modelos de classificação, avaliação com acurácia e matriz de confusão |
+| 14 | Segmentação de Clientes (Clustering) | Aplicação de algoritmos de clustering para identificar grupos de clientes com comportamentos similares. | Padronização de dados, K-Means, análise de inércia, interpretação de clusters, visualização de grupos |
+| 15 | Análise de Séries Temporais | Análise de dados temporais para identificar padrões, tendências e sazonalidade em séries históricas. | Manipulação de datas, resample, decomposição de séries, visualização temporal, identificação de padrões |
+| 17 | Modelagem Preditiva para Previsão de Credit Score | Projeto de modelagem preditiva com foco na previsão do score de crédito de clientes, incluindo tratamento e codificação de variáveis categóricas, análise de correlação e aplicação de SMOTE na base de treino. | Modelagem preditiva, classificação multiclasse, codificação de variáveis, análise de correlação, divisão treino-teste, balanceamento de dados com SMOTE, preparação de dados para machine learning |
+| 18 | Regressão Linear para Previsão de Aluguéis | Desenvolvimento de modelos de regressão linear simples e múltipla para prever o valor de aluguéis com base em características dos imóveis. | Separação entre treino e teste, regressão linear, análise de correlação, avaliação com R² e interpretação de modelos |
 
 ## Tecnologias e ferramentas
 
@@ -30,14 +32,13 @@ As bibliotecas utilizadas variam conforme os objetivos de cada atividade e estã
 
 ## Estrutura do repositório
 
-```text
-.
-├── modulo_10_analise_visualizacao_dados.py
-├── modulo_13_analise_estatistica_dados.py
-├── modulo_14_tratamento_limpeza_dados.ipynb
-├── modulo_15_analise_pre_modelagem_churn.ipynb
-└── README.md
-```
+- `modulo_10_...ipynb` – Análise Exploratória de Dados (M10)  
+- `modulo_13_...ipynb` – Classificação de Clientes (M13)  
+- `modulo_14_...ipynb` – Segmentação de Clientes (M14)  
+- `modulo_15_...ipynb` – Análise de Séries Temporais (M15)  
+- `modulo_17_modelagem_previsao_credit_score.ipynb` – Modelagem Preditiva para Previsão de Credit Score (M17)  
+- `modulo_18_regressao_linear_valor_aluguel.ipynb` – Regressão Linear para Previsão de Aluguéis (M18)  
+- `README.md` – Este arquivo, com a descrição dos projetos e do portfólio.
 
 ## Objetivo profissional
 
