@@ -38,7 +38,8 @@ As bibliotecas utilizadas variam conforme os objetivos de cada atividade e estã
 - `modulo_14_...ipynb` – Segmentação de Clientes (M14)  
 - `modulo_15_...ipynb` – Análise de Séries Temporais (M15)  
 - `modulo_17_modelagem_previsao_credit_score.ipynb` – Modelagem Preditiva para Previsão de Credit Score (M17)  
-- `modulo_18_regressao_linear_valor_aluguel.ipynb` – Regressão Linear para Previsão de Aluguéis (M18)  
+- `modulo_18_regressao_linear_valor_aluguel.ipynb` – Regressão Linear para Previsão de Aluguéis (M18)
+- `modulo_20_naive_bayes_credit_score.ipynb` – Naive Bayes para Previsão de Credit Score (M20)
 - `README.md` – Este arquivo, com a descrição dos projetos e do portfólio.
 
 ## Objetivo profissional
