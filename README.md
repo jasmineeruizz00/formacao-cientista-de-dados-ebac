@@ -14,6 +14,7 @@ Os projetos reunidos aqui registram minha evolução técnica em Python e fundam
 | 15 | Análise de Séries Temporais | Análise de dados temporais para identificar padrões, tendências e sazonalidade em séries históricas. | Manipulação de datas, resample, decomposição de séries, visualização temporal, identificação de padrões |
 | 17 | Modelagem Preditiva para Previsão de Credit Score | Projeto de modelagem preditiva com foco na previsão do score de crédito de clientes, incluindo tratamento e codificação de variáveis categóricas, análise de correlação e aplicação de SMOTE na base de treino. | Modelagem preditiva, classificação multiclasse, codificação de variáveis, análise de correlação, divisão treino-teste, balanceamento de dados com SMOTE, preparação de dados para machine learning |
 | 18 | Regressão Linear para Previsão de Aluguéis | Desenvolvimento de modelos de regressão linear simples e múltipla para prever o valor de aluguéis com base em características dos imóveis. | Separação entre treino e teste, regressão linear, análise de correlação, avaliação com R² e interpretação de modelos |
+| 20 | Naive Bayes para Previsão de Credit Score | Aplicação do algoritmo Naive Bayes para classificar clientes nas categorias Low, Average e High de score de crédito, com preparação dos dados, divisão treino-teste e avaliação do modelo. | Naive Bayes, classificação multiclasse, codificação de variáveis, separação treino-teste, matriz de confusão, acurácia e recall |
 
 ## Tecnologias e ferramentas
 
